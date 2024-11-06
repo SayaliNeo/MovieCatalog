@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="search">Search</string>
+    <string name="movie2024">Movie Year 2024</string>
+    <string name="movie2023">Movie Year 2023</string>
+    <string name="movie2022">Movie Year 2022</string>
+    <string name="movie2021">Movie Year 2021</string>
+    <string name="movie2020">Movie Year 2020</string>
+    <string name="fab">fab</string>
+    <string name="total_count">Top 3 Characters</string>
+</resources>
